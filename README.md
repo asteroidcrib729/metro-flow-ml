@@ -1,4 +1,4 @@
-# Smart Traffic Management System
+# Metro-Flow-ML
 
 ML-based hourly traffic volume prediction, interactive geospatial congestion
 visualization, and FastAPI REST inference for **I-94 Westbound
