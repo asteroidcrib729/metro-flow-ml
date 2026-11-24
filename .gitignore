@@ -1,0 +1,41 @@
+# Local notes, scratchpads & environments
+.local/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+.venv/
+venv/
+.uv-cache/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.pyrefly_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS clutter (retain shared .vscode config)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs & temporary files
+*.log
+*.bak
+*.tmp
